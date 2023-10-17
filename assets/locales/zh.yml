@@ -1,0 +1,87 @@
+# app.name: '身份验证器'
+
+# page404.content: '页面未找到'
+
+# top.panel:
+#   keyword.hint: '搜索账号'
+#   add:
+#     qr: '扫描二维码'
+#     pick: '本地图片'
+#     input: '输入密钥'
+
+# list.item.action:
+# #  move: '移动'
+#   sticky: '置顶'
+#   sticky.not: '浮动'
+#   more: '更多'
+#   delete: '删除'
+
+# toast:
+#   copied.to.clipboard: '已复制'
+#   add.success: '添加成功'
+
+# dialog:
+#   common:
+#     cancel: '取消'
+#     confirm: '确定'
+#   account:
+#     delete:
+#       title: '确定要移除此账号吗？'
+#       content: '移除之前，请确保可以通过其他方式登录账号，或已经移除两步验证步骤。'
+#       confirm: '删除账号'
+#   permission:
+#     camera:
+#       title: '照相机权限'
+#       content: '使用照相机扫描二维码'
+#     photo: # ios 还有照片权限
+#       title: '图片权限'
+#       content: '扫描二维码图片'
+
+# enter.key:
+#   title: '输入账号信息'
+#   issuer.hint: '服务厂商'
+#   account.hint: '账号 *'
+#   key.hint: '秘钥 *'
+#   type:
+#     time: '基于时间'
+#     counter: '基于计数器'
+#   confirm: '添加'
+#   save: '保存'
+#   tip:
+#     account: '请输入账户名'
+#     key: '请输入正确的秘钥 (16 或 32)'
+
+# scan.page:
+#   title: '扫描二维码'
+#   tip: '无效的二维码'
+#   tooShort.account: '无账号名称'
+#   tooLong:
+#     account: '账号名称过长，最大支持 50 字符'
+#     issuer: '服务厂商名称过长，最大支持 30 字符'
+
+# settings:
+#   title: '设置'
+#   sort:
+#     account:
+#       title: '账户排序方式'
+#     keyword:
+#       title: '检索词排序方式'
+#     used: '使用次数'
+#     last: '最近使用'
+#     sort: '指定顺序'
+#   keyword.management: '检索词管理'
+#   privacy.screen:
+#     title: '隐私保护屏幕'
+#     tip:
+#       content: '启用隐私保护屏幕后，需要使用%s才能访问次应用。'
+#       face: '面容 ID '
+#       touch: '触控 ID '
+#       fingerprint: '指纹解锁' # 不知道安卓怎么称呼
+#     alive:
+#       title: '需要身份验证'
+#       immediately: '立即'
+#       seconds10: '10 秒后'
+#       minute: '1 分钟后'
+#       minutes10: '10 分钟后'
+#       tip: '你可以选择在不同的应用之间切换时延迟显示隐私保护屏幕。'
+#     system.settings: '打开系统设置'

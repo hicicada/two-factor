@@ -1,0 +1,6 @@
+# top.panel:
+#   keyword.hint: '搜索賬號'
+#   add:
+#     qr: '掃描二維碼'
+#     pick: '本地圖片'
+#     input: '輸入密鑰'

@@ -1,0 +1,89 @@
+# app.name: 'Authenticator'
+
+# page404:
+#   title: '404'
+#   content: 'Not Found'
+
+# top.panel:
+#   keyword.hint: 'Search'
+#   add:
+#     qr: 'Scan a QR code'
+#     pick: 'Local image'
+#     input: 'Enter a setup key'
+
+# list.item.action:
+# #  move: 'Move'
+#   sticky: 'Sticky'
+#   sticky.not: 'Float'
+#   more: 'More'
+#   delete: 'Delete'
+
+# toast:
+#   copied.to.clipboard: 'Copied'
+#   add.success: 'Successful'
+
+# dialog:
+#   common:
+#     cancel: 'Cancel'
+#     confirm: 'Confirm'
+#   account:
+#     delete:
+#       title: 'Are you sure you want to remove this account?'
+#       content: 'Before removing, please make sure that you can log in to your account in other ways, or you have removed the two-step verification step.'
+#       confirm: 'Delete account'
+#   permission:
+#     camera:
+#       title: 'Camera permission'
+#       content: 'Scan QR code with camera'
+#     photo: # ios 还有照片权限
+#       title: 'Photo permission'
+#       content: 'Scan QR code from picture'
+
+# enter.key:
+#   title: 'Enter account details'
+#   issuer.hint: 'Issuer'
+#   account.hint: 'Account *'
+#   key.hint: 'Key *'
+#   type:
+#     time: 'Time based'
+#     counter: 'Counter based'
+#   confirm: 'Add'
+#   save: 'Save'
+#   tip:
+#     account: 'Please enter account.'
+#     key: 'Please enter the correct key (16 or 32).'
+
+# scan.page:
+#   title: 'Scan QR code'
+#   tip: 'Invalid QR code'
+#   tooShort.account: 'No account name'
+#   tooLong:
+#     account: 'The account name is too long, the maximum support is 50 characters'
+#     issuer: 'The issuer name is too long, the maximum support is 30 characters'
+
+# settings:
+#   title: 'Settings'
+#   sort:
+#     account:
+#       title: 'Account Sort by'
+#     keyword:
+#       title: 'Search Word Sort by'
+#     used: 'Usage Count'
+#     last: 'Recently Used'
+#     sort: 'Specified Order'
+#   keyword.management: 'Search Word Management'
+#   privacy.screen:
+#     title: 'Privacy Screen'
+#     tip:
+#       content: 'When Privacy Screen is enabled, access to this app will be restricted by %s.'
+#       face: 'Face ID'
+#       touch: 'Touch ID'
+#       fingerprint: 'Fingerprint' # 不知道安卓怎么称呼
+#     alive:
+#       title: 'Require Authentication'
+#       immediately: 'Immediately'
+#       seconds10: 'After 10 seconds'
+#       minute: 'After 1 minute'
+#       minutes10: 'After 10 minutes'
+#       tip: 'You can choose to delay Privacy Screen when switching between apps.'
+#     system.settings: 'Open system settings'
